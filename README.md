@@ -2,7 +2,7 @@
 🚀 **Aplikasi Streaming Video Menggunakan GStreamer & GTK** 🚀  
 
 Aplikasi ini memungkinkan pengguna untuk menangkap video dari **webcam** dan mengirimkannya melalui jaringan menggunakan **UDP streaming** dengan **GStreamer** dan **GTK**.
-
+https://moiltech-my.sharepoint.com/:w:/g/personal/oilmcut_moil_com_tw/EbohxigheH1NrBRsRo_zc0EBy7jxIvjtwAMYIpoCBdZeCg?e=McXKvh
 ---
 
 ## **🛠️ Fitur**
